@@ -1,5 +1,5 @@
 
-# hello
+# hello :)
 
 ### I'm Thomas - aka [tholeb][website] 
 
@@ -56,6 +56,6 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzA1NjEwMiwtMTQzMDEwNDUzNCwtOT
+eyJoaXN0b3J5IjpbMTA2Mjk5NjgzMywtMTQzMDEwNDUzNCwtOT
 g0NjUzNDk0LC0xMzQzMzc2OTA5LC0xNzQ3OTg3MDA0XX0=
 -->
