@@ -39,7 +39,8 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=true" />
+<img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
+<img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
 [website]: http://tholeb.fr
@@ -51,6 +52,6 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjI3OTUyMSwtOTg0NjUzNDk0LC0xMz
+eyJoaXN0b3J5IjpbMjEyNjk1MTU2NCwtOTg0NjUzNDk0LC0xMz
 QzMzc2OTA5LC0xNzQ3OTg3MDA0XX0=
 -->
