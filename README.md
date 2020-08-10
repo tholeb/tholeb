@@ -39,15 +39,11 @@
 <br />
 
 ---
-<img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
-<br/> <br/>
-<img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="http://tholeb.fr">
+  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="http://tholeb.fr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 
 
@@ -60,6 +56,6 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzI0OTQ3OCwtMTQzMDEwNDUzNCwtOT
+eyJoaXN0b3J5IjpbMTEzMzA1NjEwMiwtMTQzMDEwNDUzNCwtOT
 g0NjUzNDk0LC0xMzQzMzc2OTA5LC0xNzQ3OTg3MDA0XX0=
 -->
