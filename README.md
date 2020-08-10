@@ -40,6 +40,7 @@
 
 ---
 <img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
+<br/> <br/>
 <img align="left" alt="tholeb's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
@@ -52,6 +53,6 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjk1MTU2NCwtOTg0NjUzNDk0LC0xMz
-QzMzc2OTA5LC0xNzQ3OTg3MDA0XX0=
+eyJoaXN0b3J5IjpbLTE0MzAxMDQ1MzQsLTk4NDY1MzQ5NCwtMT
+M0MzM3NjkwOSwtMTc0Nzk4NzAwNF19
 -->
