@@ -42,6 +42,7 @@
 
 
 [website]: https://tholeb.fr
+[vlife]: https://vlife.fr
 [twitter]: https://twitter.com/tholeb_
 [discord]: https://discord.com/channels/@me/259056305187192833
 [polytech]: https://polytech.univ-nantes.fr/
@@ -49,5 +50,5 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDg0OTgzMF19
+eyJoaXN0b3J5IjpbNzQ0Nzc1MzIxXX0=
 -->
