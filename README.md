@@ -4,11 +4,11 @@
 ### I'm Thomas - aka [tholeb][website] 
 
 ## I'm a 🥖 French Student and a *FullStack* developer !
-- 🎉 I’m currently working on an [Open Source Cloud Project][website] !
-- 👨‍🎓 Student at [Polytech Nantes](polytech)
+- 🎉 I’m currently working on an [Open Source Cloud Project][yaoscp] !
+- 👨‍🎓 Student at [Polytech Nantes][polytech]
 - 📚 I’m currently learning things *(UNIX, Lua, JS, ...)*
 - 🎭  I love video games
-- Administrator at [VLife](vlife) and creator of [YAOSCP](yaoscp)
+- ⚙ Administrator at [VLife][vlife] and creator of [YAOSCP][yaoscp]
 
 ### Connect with me:
 
@@ -50,5 +50,5 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTE5ODQ3OF19
+eyJoaXN0b3J5IjpbLTE3NDc5ODcwMDRdfQ==
 -->
