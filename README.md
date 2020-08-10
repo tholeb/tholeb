@@ -4,7 +4,7 @@
 ### I'm Thomas - aka [tholeb][website] 
 
 ## I'm a 🥖 French Student and a *FullStack* developer !
-- 🎉 I’m currently working on an [Open Source Cloud System](yaoscp)!
+- 🎉 I’m currently working on an [Open Source Cloud Project][website] !
 - 👨‍🎓 Student at [Polytech Nantes](polytech)
 - 📚 I’m currently learning things *(UNIX, Lua, JS, ...)*
 - 🎭  I love video games
@@ -41,8 +41,8 @@
 ---
 
 
-[website]: https://tholeb.fr
-[vlife]: https://vlife.fr
+[website]: http://tholeb.fr
+[vlife]: http://vlife.fr
 [twitter]: https://twitter.com/tholeb_
 [discord]: https://discord.com/channels/@me/259056305187192833
 [polytech]: https://polytech.univ-nantes.fr/
@@ -50,5 +50,5 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0Nzc1MzIxXX0=
+eyJoaXN0b3J5IjpbMTU3MTE5ODQ3OF19
 -->
