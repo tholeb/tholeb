@@ -39,7 +39,7 @@
 <br />
 
 ---
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=true" />
 
 [website]: http://tholeb.fr
 [vlife]: http://vlife.fr
@@ -50,5 +50,6 @@
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc5ODcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDMzNzY5MDksLTE3NDc5ODcwMDRdfQ
+==
 -->
