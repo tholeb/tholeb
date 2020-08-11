@@ -1,8 +1,6 @@
 
 # hello :)
 
-### I'm Thomas - aka [tholeb][website] 
-
 ## I'm a 🥖 French Student and a *FullStack* developer !
 - 🎉 I’m currently working on an [Open Source Cloud Project][yaoscp] !
 - 👨‍🎓 Student at [Polytech Nantes][polytech]
