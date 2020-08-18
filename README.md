@@ -38,6 +38,11 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#104](https://github.com//rossjrw/rossjrw/issues/104) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+2. ❗️ Opened issue [#4383](https://github.com//timburgan/timburgan/issues/4383) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. ❗️ Opened issue [#54](https://github.com//CADOJRP/FiveM-AdministrationPanel/issues/54) in [CADOJRP/FiveM-AdministrationPanel](https://github.com//CADOJRP/FiveM-AdministrationPanel)
+4. ❗️ Opened issue [#66](https://github.com//armin-pfaeffle/atom-minify/issues/66) in [armin-pfaeffle/atom-minify](https://github.com//armin-pfaeffle/atom-minify)
+<!--END_SECTION:activity-->
 </details>
 
 <details>
