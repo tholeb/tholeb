@@ -35,6 +35,12 @@
 
 <br />
 <br />
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+</details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> </p>
 
 ---
 <a href="http://tholeb.fr">
