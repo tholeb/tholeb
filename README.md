@@ -42,16 +42,16 @@
 
 <details>
 <summary>:zap: Github stats</summary>
+  <p>
   <a href="http://tholeb.fr">
     <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
   </a>
   <a href="http://tholeb.fr">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   </a>
+  </p>
 </details>
 
-<br />
-<br />
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> </p>
 
