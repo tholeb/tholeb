@@ -50,6 +50,8 @@
   </a>
 </details>
 
+<br />
+<br />
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> </p>
 
