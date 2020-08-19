@@ -36,6 +36,13 @@
 
 <br />
 <br />
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+  <img alt="Discord" src="https://img.shields.io/discord/617016532706525205?color=dd00ff&label=VLife">
+</p>
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
@@ -48,22 +55,15 @@
 
 <details>
   <summary>:zap: Github stats</summary>
-  <p>
-  <a href="http://tholeb.fr">
-    <img align="left" src="https://github-readme-stats-git-master.tholeb.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
-  </a>
-  <a href="http://tholeb.fr">
-    <img align="right" src="https://github-readme-stats-git-master.tholeb.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  </a>
+  <p align:center>
+    <a href="http://tholeb.fr">
+      <img align="left" src="https://github-readme-stats-git-master.tholeb.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
+    </a>
+    <a href="http://tholeb.fr">
+      <img align="right" src="https://github-readme-stats-git-master.tholeb.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </a>
   </p>
-  <br /><br />
 </details>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
-  <img alt="Discord" src="https://img.shields.io/discord/617016532706525205?color=dd00ff&label=VLife">
-</p>
 
 
 [website]: http://tholeb.fr
