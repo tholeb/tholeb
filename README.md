@@ -57,10 +57,11 @@
   <summary>:zap: Github stats</summary>
   <p align:center>
     <a href="http://tholeb.fr">
-      <img align="left" src="https://github-readme-stats-git-master.tholeb.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
+      <img align="center" src="https://github-readme-stats-git-master.tholeb.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
     </a>
+    <br />
     <a href="http://tholeb.fr">
-      <img align="right" src="https://github-readme-stats-git-master.tholeb.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+      <img align="center" src="https://github-readme-stats-git-master.tholeb.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
     </a>
   </p>
 </details>
