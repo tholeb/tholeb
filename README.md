@@ -47,9 +47,9 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/rossjrw/rossjrw/issues/104) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-2. ❗️ Opened issue [#4383](https://github.com/timburgan/timburgan/issues/4383) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#54](https://github.com//CADOJRP/FiveM-AdministrationPanel/issues/54) in [CADOJRP/FiveM-AdministrationPanel](https://github.com//CADOJRP/FiveM-AdministrationPanel)
+  1. ❗️ Opened issue [#104](https://github.com/rossjrw/rossjrw/issues/104) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+  2. ❗️ Opened issue [#4383](https://github.com/timburgan/timburgan/issues/4383) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+  3. ❗️ Opened issue [#54](https://github.com//CADOJRP/FiveM-AdministrationPanel/issues/54) in [CADOJRP/FiveM-AdministrationPanel](https://github.com//CADOJRP/FiveM-AdministrationPanel)
 <!--END_SECTION:activity-->
 </details>
 
@@ -57,11 +57,11 @@
   <summary>:zap: Github stats</summary>
   <p align:"center" width="100%">
     <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats-git-master.tholeb.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
     </a>
     <br />
     <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats-git-master.tholeb.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tholeb&show_icons=true&hide_border=false" />
     </a>
   </p>
 </details>
