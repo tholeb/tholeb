@@ -4,9 +4,7 @@
 ## I'm a 🥖 French Student and a *FullStack* developer !
 - 🎉 I’m currently working on an [Open Source Cloud Project][yaoscp] !
 - 👨‍🎓 Student at [Polytech Nantes][polytech]
-- 📚 I’m currently learning things *(UNIX, Lua, JS, ...)*
-- 🎭  I love video games
-- ⚙ Administrator at [VLife][vlife] and creator of [YAOSCP][yaoscp]
+- ⚙ Creator of [YAOSCP][yaoscp]
 
 ### Connect with me:
 <p align="center" width="100%">
