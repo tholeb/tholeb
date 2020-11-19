@@ -14,7 +14,6 @@
 <a href="https://steamcommunity.com/id/tholeb/"><img align="center" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" /></a>
 <a href="https://discord.com/channels/@me/259056305187192833"><img align="center" alt="Discord" title="tholeb#6077" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 </p>
-<br />
 
 ### Languages and Tools :
 
@@ -33,8 +32,6 @@
 <a href="http://tholeb.fr"><img align="center" alt="UNIX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 </p>
 
-<br />
-<br />
 
 ---
 <p align="center">
