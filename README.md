@@ -42,9 +42,6 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
       <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-2. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-      <!--END_SECTION:activity-->
 </details>
 <!--START_SECTION:activity-->
 <details>
