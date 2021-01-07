@@ -1,7 +1,7 @@
 
 # hello :)
 
-## I'm a 🥖 French Student and a *FullStack* developer !
+## I'm a 🥖 French fish and a *FullStack* developer !
 - 🎉 I’m currently working on an [Open Source Cloud Project][yaoscp] !
 - 👨‍🎓 Student at [Polytech Nantes][polytech]
 - ⚙ Creator of [YAOSCP][yaoscp]
