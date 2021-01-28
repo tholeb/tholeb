@@ -42,10 +42,10 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
       <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-2. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-3. 🎉 Merged PR [#1](https://github.com/tholeb/ubuntu_playbook/pull/1) in [tholeb/ubuntu_playbook](https://github.com/tholeb/ubuntu_playbook)
-4. 💪 Opened PR [#1](https://github.com/tholeb/ubuntu_playbook/pull/1) in [tholeb/ubuntu_playbook](https://github.com/tholeb/ubuntu_playbook)
+1. 🎉 Merged PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
+2. 💪 Opened PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
+3. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
+4. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
 <!--END_SECTION:activity-->
 </details>
 <!--START_SECTION:activity-->
