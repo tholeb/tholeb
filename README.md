@@ -49,11 +49,11 @@
   <summary>:zap: Github stats</summary>
   <p align:"center" width="100%">
     <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
     </a>
     <br />
     <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tholeb&show_icons=true&hide_border=false&theme=dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tholeb&show_icons=true&hide_border=false&theme=radical" />
     </a>
   </p>
 </details>
