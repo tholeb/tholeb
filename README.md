@@ -36,19 +36,15 @@
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
-  <img alt="Discord" src="https://img.shields.io/discord/617016532706525205?color=dd00ff&label=VLife">
+  <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
 </p>
+
+<!--START_SECTION:activity-->
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-      <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
-2. 💪 Opened PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
-3. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-4. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-<!--END_SECTION:activity-->
+  - wait a min :)    
 </details>
-<!--START_SECTION:activity-->
 <details>
   <summary>:zap: Github stats</summary>
   <p align:"center" width="100%">
