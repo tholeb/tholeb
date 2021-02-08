@@ -38,7 +38,7 @@
 </p>
 
 <details>
-    <summary>Details</summary>
+    <summary>:zap: Recent github Activity</summary>
     My recent activity on github
     <!--START_SECTION:activity-->
 </details>
