@@ -31,8 +31,8 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
-2. 💪 Opened PR [#1](https://github.com/tholeb/iut/pull/1) in [tholeb/iut](https://github.com/tholeb/iut)
+1. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
+2. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
 3. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
 4. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
 5. 🎉 Merged PR [#1](https://github.com/tholeb/ubuntu_playbook/pull/1) in [tholeb/ubuntu_playbook](https://github.com/tholeb/ubuntu_playbook)
