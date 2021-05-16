@@ -30,14 +30,7 @@
 <a href="http://tholeb.fr" style="width:auto"><img align="center" alt="UNIX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 </p>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tholeb/bootstrap_test/pull/1) in [tholeb/bootstrap_test](https://github.com/tholeb/bootstrap_test)
-2. 💪 Opened PR [#1](https://github.com/tholeb/bootstrap_test/pull/1) in [tholeb/bootstrap_test](https://github.com/tholeb/bootstrap_test)
-3. ❗️ Closed issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-4. ❗️ Opened issue [#1](https://github.com/tholeb/tlb_intranet/issues/1) in [tholeb/tlb_intranet](https://github.com/tholeb/tlb_intranet)
-5. 🎉 Merged PR [#1](https://github.com/tholeb/ubuntu_playbook/pull/1) in [tholeb/ubuntu_playbook](https://github.com/tholeb/ubuntu_playbook)
-6. 💪 Opened PR [#1](https://github.com/tholeb/ubuntu_playbook/pull/1) in [tholeb/ubuntu_playbook](https://github.com/tholeb/ubuntu_playbook)
-<!--END_SECTION:activity-->
+<!--//START_SECTION||:activity\\-->
 ---
 <p align="center">
   <a href="tholeb.fr"><img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
@@ -45,9 +38,7 @@
 </p>
 
 
-<details>
-  <summary>:zap: Github stats</summary>
-  <p align:"center" width="100%">
+<p align:"center" width="100%">
     <a href="http://tholeb.fr">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
     </a>
@@ -56,7 +47,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=tholeb&show_icons=true&hide_border=false&theme=radical" />
     </a>
   </p>
-</details>
 
 
 [website]: http://tholeb.fr
