@@ -42,9 +42,6 @@
     <a href="http://tholeb.fr">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
     </a>
-    <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tholeb&show_icons=true&hide_border=false&theme=radical" />
-    </a>
   </p>
 
 
