@@ -19,12 +19,7 @@ Find me on [Linkedin](linkedin)
     <!-- vscode -->
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -34,12 +29,7 @@ Find me on [Linkedin](linkedin)
     <!-- js -->
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -48,12 +38,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -63,12 +48,7 @@ Find me on [Linkedin](linkedin)
     <!-- sql -->
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -77,12 +57,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
    <div style="float: left;
     width: 8%;
     text-align: center;
@@ -91,12 +66,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -106,12 +76,7 @@ Find me on [Linkedin](linkedin)
     <!-- java -->
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -121,12 +86,7 @@ Find me on [Linkedin](linkedin)
     <!-- python -->
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -135,12 +95,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -149,12 +104,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -163,12 +113,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
   <div style="float: left;
     width: 8%;
     text-align: center;
@@ -177,12 +122,7 @@ Find me on [Linkedin](linkedin)
     vertical-align: middle;">
     <img style="width: auto;
     vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  </div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
+  </div>
 
 </container>
 
