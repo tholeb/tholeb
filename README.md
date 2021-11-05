@@ -24,7 +24,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 <!-- ## Recent activities -->
 
-<!--\\START_SECTION:\\activity-->
+<!--START_SECTION:activity-->
 
 <br/>
 
