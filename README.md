@@ -22,9 +22,9 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
   <img align="center" alt="git" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
 
-## Recent activities
+<!-- ## Recent activities -->
 
-<!--START_SECTION:activity-->
+<!--\\START_SECTION:\\activity-->
 
 <br/>
 
