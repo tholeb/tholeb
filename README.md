@@ -23,16 +23,18 @@ I am a creative and enthusiastic Full-Stack developer mainly using javascript fo
 ---
 
 <div align="center" width="100%" style="text-align:center; margin:auto">
-  <a align="center" width="100%" style="text-align:center; margin:auto" href="tholeb.fr">
-    <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
-    <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
-  </a>
+  <p>
+    <a align="center" width="100%" style="text-align:center; margin:auto" href="tholeb.fr">
+      <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+      <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
+    </a>
+  </p>
 
-  <br/>
-
-  <a align="center" width="100%" style="text-align:center; margin:auto" href="http://tholeb.fr" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
-  </a>
+  <p>
+    <a align="center" width="100%" style="text-align:center; margin:auto" href="http://tholeb.fr" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+    </a>
+  </p>
 </div>
 
 
