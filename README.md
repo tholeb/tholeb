@@ -7,124 +7,20 @@ Find me on [Linkedin](linkedin)
 ## Languages and Tools
 
 <!-- https://github.com/github/explore/tree/main/topics -->
-<container style="display: block;
-    width: 100%;
-    overflow-y: auto;">
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <!-- vscode -->
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <!-- js -->
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <!-- sql -->
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png">
-  </div>
-   <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <!-- java -->
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <!-- python -->
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  </div>
-  <div style="float: left;
-    width: 8%;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    vertical-align: middle;">
-    <img style="width: auto;
-    vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  </div>
-
-</container>
+<p align="center" width="auto">
+  <img align="center" alt="vscode" width="35px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="center" alt="js" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="center" alt="nodejs" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img align="center" alt="mysql" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img align="center" alt="oraclesql" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" />
+  <img align="center" alt="sqlite" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
+  <img align="center" alt="java" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+  <img align="center" alt="python" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="center" alt="bash" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+  <img align="center" alt="sass" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align="center" alt="php" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+  <img align="center" alt="git" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</p>
 
 ## Recent activities
 
