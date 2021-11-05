@@ -1,18 +1,5 @@
 # hello :)
 
-## I'm a 🥖 French baguette and a *FullStack* developer !
-- 🎉 I’m currently working on an [Open Source Cloud Project][yaoscp] !
-- 👨‍🎓 Student at [Polytech Nantes][polytech]
-
-<!--
-### Connect with me:
-<p align="center" width="100%">
-<a href="http://tholeb.fr"><img align="center" alt="tholeb.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/in/thomas-lebreton-1246681b2/"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://discord.com/channels/@me/259056305187192833"><img align="center" alt="Discord" title="tholeb#6077" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
-</p>
--->
-
 ### Languages and Tools :
 
 <p align="center" width="auto">
@@ -53,7 +40,3 @@
 [linkedin]: https://www.linkedin.com/in/thomas-lebreton-1246681b2/
 [steam]: https://steamcommunity.com/id/tholeb/
 [yaoscp]: https://github.com/YAOSCP
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjk5NjgzMywtMTQzMDEwNDUzNCwtOT
-g0NjUzNDk0LC0xMzQzMzc2OTA5LC0xNzQ3OTg3MDA0XX0=
--->
