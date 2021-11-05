@@ -1,6 +1,7 @@
-# hello :)
+# hello
+I am a creative and enthusiastic Full-Stack developer mainly using javascript for projects. I love working with others and solving problems; I also love learning by myself!
 
-### Languages and Tools :
+## Languages and Tools :
 
 <p align="center" width="auto">
 <a href="http://tholeb.fr" style="width:auto"><img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
@@ -18,18 +19,15 @@
 </p>
 
 <!--START_SECTION:activity-->
+
 ---
-<p align="center">
-  <a href="tholeb.fr"><img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
-  <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue"></a>
-</p>
+<a align="center" href="tholeb.fr"><img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+  <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
+</a>
 
-
-<p align:"center" width="100%" style="text-align:center; margin:auto">
-    <a href="http://tholeb.fr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
-    </a>
-  </p>
+<a align:"center" width="100%" style="text-align:center; margin:auto" href="http://tholeb.fr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
 
 
 [website]: http://tholeb.fr
