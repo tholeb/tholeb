@@ -1,7 +1,7 @@
 # Welcome to my profile
 I am a creative and enthusiastic Full-Stack developer mainly using javascript for projects. I love working with others and solving problems; I also love learning by myself!
 
-Find me on [Linkedin](linkedin)
+Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 
 ## Languages and Tools
