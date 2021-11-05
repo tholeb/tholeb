@@ -25,7 +25,7 @@
 </p>
 
 
-<p align:"center" width="100%">
+<p align:"center" width="100%" style="text-align:center; margin:auto">
     <a href="http://tholeb.fr">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
     </a>
