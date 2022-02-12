@@ -1,51 +1,79 @@
-# Welcome to my profile
-I am a creative and enthusiastic Full-Stack developer mainly using javascript for projects. I love working with others and solving problems; I also love learning by myself!
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> !
+</h1>
+
+<h6 align="center">Student</h6>
+
+<p align="center">
+  <a align="center" width="100%" style="text-align:center; margin:auto" href="tholeb.fr">
+    <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+    <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
+  </a>
+</p>
+
+## 🧑 About me
+
+<p>
+I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>self-taught</b> and enthusiastic Full-Stack developer mainly using javascript for projects. I love working with others and solving problems; I also love learning by myself!
+</p>
 
 Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
+## 📚 Skills
 
-## Languages and Tools
+<p>
+🔸 Back-end: NodeJS, ExpressJS, Sequelize <i>(ORM)</i> <br />
+🔹 Front-end: ReactJS, VueJS <br/>
+🔸 Java, SQL, UML, CICD <br/>
+🔹 Back-end: NodeJS, ExpressJS, Sequelize <i>(ORM)</i> <br />
+</p>
+
+## 🛠️ Languages and Tools
 
 <!-- https://github.com/github/explore/tree/main/topics -->
-<p align="center" width="auto">
-  <img align="center" alt="vscode" width="35px" style="padding-right:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="js" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="center" alt="nodejs" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="center" alt="mysql" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="center" alt="oraclesql" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" />
-  <img align="center" alt="sqlite" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
-  <img align="center" alt="java" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-  <img align="center" alt="python" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="center" alt="bash" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-  <img align="center" alt="sass" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="center" alt="php" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img align="center" alt="git" width="35px" style="padding-right:10px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<p align="center" style="display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px; width: auto;">
+  <img alt="vscode" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img alt="reactjs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="vuejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+  <img alt="sequelize" width="40px" src="https://raw.githubusercontent.com/sequelize/sequelize/HEAD/docs/images/logo-small.png" />
+  <img alt="mysql" width="40px" src="http://pngimg.com/uploads/mysql/mysql_PNG9.png" />
+  <img alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
+  <img alt="oraclesql" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" />
+  <img alt="postman" width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
+  <img alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+  <img alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img alt="linux" width="40px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+  <img alt="git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img alt="ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+  <img alt="sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </p>
 
 <!-- ## Recent activities -->
 
 <!--START_SECTION:activity-->
 
-<br/>
+<h2>ℹ️ &nbsp;Github Info</h2>
 
----
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/></p>
 
-<div align="center" width="100%" style="text-align:center; margin:auto">
-  <p>
-    <a align="center" width="100%" style="text-align:center; margin:auto" href="tholeb.fr">
-      <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
-      <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
-    </a>
-  </p>
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholeb&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="tholeb" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tholeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="tholeb" align = "center"/></p>
 
-  <p>
-    <a align="center" width="100%" style="text-align:center; margin:auto" href="http://tholeb.fr" >
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholeb&langs_count=8" />
-    </a>
-  </p>
-</div>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=tholeb&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DDDDDD00&currStreakLabel=4B8EDA&ring=4B8EDA&fire=4B8EDA" alt="tholeb" /></p>
 
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tholeb&bg_color=0D1117&color=4B8EDA&line=4B8EDA&point=FFFFFF&hide_border=true" /></a></p>
+
+<br>
 
 [website]: http://tholeb.fr
-[polytech]: https://polytech.univ-nantes.fr/
 [linkedin]: https://www.linkedin.com/in/thomas-lebreton-1246681b2/
