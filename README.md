@@ -5,7 +5,7 @@
 <h6 align="center">Student</h6>
 
 <p align="center">
-  <a align="center" width="100%" style="text-align:center; margin:auto" href="tholeb.fr">
+  <a href="tholeb.fr">
     <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
   </a>
@@ -24,8 +24,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <p>
 🔸 Back-end: NodeJS, ExpressJS, Sequelize <i>(ORM)</i> <br />
 🔹 Front-end: ReactJS, VueJS <br/>
-🔸 Java, SQL, UML, CICD <br/>
-🔹 Back-end: NodeJS, ExpressJS, Sequelize <i>(ORM)</i> <br />
+🔸 Java, SQL, UML, Gitlab CICD <br/>
 </p>
 
 ## 🛠️ Languages and Tools
@@ -47,7 +46,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
   <img alt="postman" width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
   <img alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="linux" width="40px" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
+  <img alt="linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
   <img alt="git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img alt="ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
   <img alt="sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -60,6 +59,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
+<p>
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/></p>
 
@@ -73,7 +73,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tholeb&bg_color=0D1117&color=4B8EDA&line=4B8EDA&point=FFFFFF&hide_border=true" /></a></p>
 
-<br>
+</p>
 
 [website]: http://tholeb.fr
 [linkedin]: https://www.linkedin.com/in/thomas-lebreton-1246681b2/
