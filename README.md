@@ -63,9 +63,10 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
-<p>
+<details>
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/></p>
+  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/>
+</details>
 
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholeb&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="github stats" align = "center"/>
