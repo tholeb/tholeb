@@ -4,14 +4,16 @@
 
 <h6 align="center">Student</h6>
 
-[![Update README](https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml/badge.svg)](https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml)
 <p align="center">
+  <a href="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml">
+    <img src="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml/badge.svg" alt="workflow" />
+  </a>
+  <!--
   <a href="tholeb.fr">
-    <!--
     <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
-    -->
   </a>
+  -->
 </p>
 
 
