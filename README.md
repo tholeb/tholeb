@@ -19,6 +19,7 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 
 Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
+<!--
 ## 📚 Skills
 
 <p>
@@ -26,6 +27,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 🔹 Front-end: ReactJS, VueJS <br/>
 🔸 Java, SQL, UML, Gitlab CICD <br/>
 </p>
+-->
 
 ## 🛠️ Languages and Tools
 
@@ -66,8 +68,9 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholeb&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="tholeb" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tholeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="tholeb" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholeb&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="github stats" align = "center"/>
+  
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tholeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" align = "center"/></p>-->
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=tholeb&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DDDDDD00&currStreakLabel=4B8EDA&ring=4B8EDA&fire=4B8EDA" alt="tholeb" /></p>
