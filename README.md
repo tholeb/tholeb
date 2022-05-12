@@ -33,17 +33,13 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <p align="center" style="display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 10px; width: auto;">
-  <img alt="vscode" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img alt="reactjs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img alt="vuejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img alt="sequelize" width="40px" src="https://raw.githubusercontent.com/sequelize/sequelize/HEAD/docs/images/logo-small.png" />
   <img alt="mysql" width="40px" src="http://pngimg.com/uploads/mysql/mysql_PNG9.png" />
   <img alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
-  <img alt="oraclesql" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/oracle-database/oracle-database.png" />
-  <img alt="postman" width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
   <img alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
   <img alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   <img alt="linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
