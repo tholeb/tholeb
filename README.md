@@ -52,6 +52,12 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#405](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/405) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
+2. ❗️ Opened issue [#114](https://github.com/dell/redfish-ansible-module/issues/114) in [dell/redfish-ansible-module](https://github.com/dell/redfish-ansible-module)
+3. 🗣 Commented on [#427](https://github.com/ansible/vscode-ansible/issues/427) in [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible)
+4. 🗣 Commented on [#427](https://github.com/ansible/vscode-ansible/issues/427) in [ansible/vscode-ansible](https://github.com/ansible/vscode-ansible)
+5. ❗️ Opened issue [#1](https://github.com/tholeb/tholeb.github.io/issues/1) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+<!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
