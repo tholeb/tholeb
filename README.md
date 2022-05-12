@@ -49,7 +49,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
   <img alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </p>
 
-<!-- ## Recent activities -->
+<h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
 
