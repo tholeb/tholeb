@@ -60,11 +60,11 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17346](https://github.com/cockpit-project/cockpit/issues/17346) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
-2. 🎉 Merged PR [#5](https://github.com/tholeb/tholeb.github.io/pull/5) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-3. 💪 Opened PR [#408](https://github.com/dell/dellemc-openmanage-ansible-modules/pull/408) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
-4. 🎉 Merged PR [#4](https://github.com/tholeb/tholeb.github.io/pull/4) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-5. 🗣 Commented on [#405](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/405) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
+1. 🗣 Commented on [#405](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/405) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
+2. ❗️ Opened issue [#17346](https://github.com/cockpit-project/cockpit/issues/17346) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+3. 🎉 Merged PR [#5](https://github.com/tholeb/tholeb.github.io/pull/5) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+4. 💪 Opened PR [#408](https://github.com/dell/dellemc-openmanage-ansible-modules/pull/408) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
+5. 🎉 Merged PR [#4](https://github.com/tholeb/tholeb.github.io/pull/4) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
