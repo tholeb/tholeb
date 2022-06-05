@@ -60,11 +60,9 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
     <li><a href="https://github.com/github/explore/tree/main/topics">Images</a></li>
     <li><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo/markdown-badges</a></li>
     <li><a href="https://github.com/leviarista/github-profile-header-generator">leviarista/github-profile-header-generator</a></li>
+    <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a></li>
   <ol>
 </details>
-
-[website]: http://tholeb.fr
-[linkedin]: https://www.linkedin.com/in/thomas-lebreton-1246681b2/
 
 <!-- <p align="center" style="display: grid;
   grid-template-columns: repeat(6, 1fr);
