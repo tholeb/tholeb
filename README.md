@@ -12,6 +12,7 @@
   <a href="tholeb.fr">
     <!-- <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> -->
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-Website-blue">
+    <img alt="my website" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11379030">
   </a>
 </p>
 
@@ -58,6 +59,7 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
     <li><a href="https://github.com/rzashakeri/beautify-github-profile">rzashakeri/beautify-github-profile</a></li>
     <li><a href="https://github.com/github/explore/tree/main/topics">Images</a></li>
     <li><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo/markdown-badges</a></li>
+    <li><a href="https://github.com/leviarista/github-profile-header-generator">leviarista/github-profile-header-generator</a></li>
   <ol>
 </details>
 
