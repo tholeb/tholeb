@@ -70,7 +70,7 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
-![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
+![3D Contributions](./profile-3d-contrib/profile-customize.svg)
 
 <!-- <details open>
   <summary><b>🔎 Github Profile Details</b></summary>
