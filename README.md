@@ -8,14 +8,11 @@
   <a href="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml">
     <img src="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml/badge.svg" alt="workflow" />
   </a>
-  <!--
   <a href="tholeb.fr">
-    <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> -->
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-My%20website-blue">
   </a>
-  -->
 </p>
-
 
 ## 🧑 About me
 
@@ -25,20 +22,10 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 
 Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
-<!--
-## 📚 Skills
-
-<p>
-🔸 Back-end: NodeJS, ExpressJS, Sequelize <i>(ORM)</i> <br />
-🔹 Front-end: ReactJS, VueJS <br/>
-🔸 Java, SQL, UML, Gitlab CICD <br/>
-</p>
--->
-
-## 🛠️ Languages and Tools
+## 🛠️ Stuff I use
 
 <!-- https://github.com/github/explore/tree/main/topics -->
-<p align="center" style="display: grid;
+<!-- <p align="center" style="display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 10px; width: auto;">
   <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -55,7 +42,21 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
   <img alt="ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
   <img alt="sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-</p>
+</p> -->
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
 <h2>💻 &nbsp;Recent Activities</h2>
 
@@ -69,35 +70,37 @@ Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
-<details open>
+![3D Contributions](./profile-3d-contrib/profile-night-view.svg)
+
+<!-- <details open>
   <summary><b>🔎 Github Profile Details</b></summary>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tholeb&theme=github_dark" alt="tholeb" align = "center"/>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary><b>⚡ Github Stats</b></summary>
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tholeb&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="github stats" align = "center"/>
   
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tholeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" align = "center"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tholeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" align = "center"/>
   </p>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
  <summary><b>🔥 Github Streaks</b></summary>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tholeb&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DDDDDD00&currStreakLabel=4B8EDA&ring=4B8EDA&fire=4B8EDA" alt="tholeb" />
   </p>
-</details>
+</details> -->
 
-<details open>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center">
-  <a href="#!">
-    <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tholeb&bg_color=0D1117&color=4B8EDA&line=4B8EDA&point=FFFFFF&hide_border=true" />
-  </a>
-</p>
-</details>
+<!-- <details open>
+    <summary><b>📊 Github Contribution Graph</b></summary>
+    <p align="center">
+        <a href="#!">
+            <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tholeb&bg_color=0D1117&color=4B8EDA&line=4B8EDA&point=FFFFFF&hide_border=true" />
+        </a>
+    </p>
+</details> -->
 
 [website]: http://tholeb.fr
 [linkedin]: https://www.linkedin.com/in/thomas-lebreton-1246681b2/
