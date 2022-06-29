@@ -42,11 +42,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#408](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/408) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
-2. 🗣 Commented on [#17340](https://github.com/cockpit-project/cockpit/issues/17340) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
-3. 🗣 Commented on [#405](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/405) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
-4. ❗️ Opened issue [#17346](https://github.com/cockpit-project/cockpit/issues/17346) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
-5. 🎉 Merged PR [#5](https://github.com/tholeb/tholeb.github.io/pull/5) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+1. 🗣 Commented on [#17346](https://github.com/cockpit-project/cockpit/issues/17346) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+2. ❗️ Opened issue [#350](https://github.com/highcharts/node-export-server/issues/350) in [highcharts/node-export-server](https://github.com/highcharts/node-export-server)
+3. 🗣 Commented on [#408](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/408) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
+4. 🗣 Commented on [#17340](https://github.com/cockpit-project/cockpit/issues/17340) in [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit)
+5. 🗣 Commented on [#405](https://github.com/dell/dellemc-openmanage-ansible-modules/issues/405) in [dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
