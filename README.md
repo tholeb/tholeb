@@ -42,11 +42,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#810](https://github.com/citizenfx/natives/pull/810) in [citizenfx/natives](https://github.com/citizenfx/natives)
-2. 💪 Opened PR [#809](https://github.com/citizenfx/natives/pull/809) in [citizenfx/natives](https://github.com/citizenfx/natives)
-3. ❗️ Closed issue [#104](https://github.com/Bob74/bob74_ipl/issues/104) in [Bob74/bob74_ipl](https://github.com/Bob74/bob74_ipl)
-4. ❗️ Opened issue [#104](https://github.com/Bob74/bob74_ipl/issues/104) in [Bob74/bob74_ipl](https://github.com/Bob74/bob74_ipl)
-5. 🗣 Commented on [#22](https://github.com/gitladen7/protonmail-webextension/issues/22) in [gitladen7/protonmail-webextension](https://github.com/gitladen7/protonmail-webextension)
+1. 🗣 Commented on [#23](https://github.com/gitladen7/protonmail-webextension/issues/23) in [gitladen7/protonmail-webextension](https://github.com/gitladen7/protonmail-webextension)
+2. 💪 Opened PR [#810](https://github.com/citizenfx/natives/pull/810) in [citizenfx/natives](https://github.com/citizenfx/natives)
+3. 💪 Opened PR [#809](https://github.com/citizenfx/natives/pull/809) in [citizenfx/natives](https://github.com/citizenfx/natives)
+4. ❗️ Closed issue [#104](https://github.com/Bob74/bob74_ipl/issues/104) in [Bob74/bob74_ipl](https://github.com/Bob74/bob74_ipl)
+5. ❗️ Opened issue [#104](https://github.com/Bob74/bob74_ipl/issues/104) in [Bob74/bob74_ipl](https://github.com/Bob74/bob74_ipl)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
