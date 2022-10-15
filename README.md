@@ -42,11 +42,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/tholeb/dumbot/pull/50) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
-2. 🎉 Merged PR [#47](https://github.com/tholeb/dumbot/pull/47) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
-3. 🎉 Merged PR [#48](https://github.com/tholeb/dumbot/pull/48) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
-4. 🗣 Commented on [#23](https://github.com/gitladen7/protonmail-webextension/issues/23) in [gitladen7/protonmail-webextension](https://github.com/gitladen7/protonmail-webextension)
-5. 💪 Opened PR [#810](https://github.com/citizenfx/natives/pull/810) in [citizenfx/natives](https://github.com/citizenfx/natives)
+1. 🎉 Merged PR [#6](https://github.com/tholeb/tholeb.github.io/pull/6) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+2. 🎉 Merged PR [#50](https://github.com/tholeb/dumbot/pull/50) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
+3. 🎉 Merged PR [#47](https://github.com/tholeb/dumbot/pull/47) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
+4. 🎉 Merged PR [#48](https://github.com/tholeb/dumbot/pull/48) in [tholeb/dumbot](https://github.com/tholeb/dumbot)
+5. 🗣 Commented on [#23](https://github.com/gitladen7/protonmail-webextension/issues/23) in [gitladen7/protonmail-webextension](https://github.com/gitladen7/protonmail-webextension)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
