@@ -12,7 +12,8 @@
   <a href="tholeb.fr">
     <!-- <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> -->
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-Website-blue">
-    <img alt="stack overflow" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11379030">
+    <br/>
+    <a href="https://stackoverflow.com/users/11379030/tholeb"><img src="https://stackoverflow.com/users/flair/11379030.png?theme=dark" width="208" height="58" alt="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </a>
 </p>
 
