@@ -6,14 +6,11 @@
 <h6 align="center">🇫🇷 French student</h6>
 
 <p align="center">
-  <a href="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml">
-    <img src="https://github.com/tholeb/tholeb/actions/workflows/update-readme.yml/badge.svg" alt="workflow" />
-  </a>
   <a href="tholeb.fr">
-    <!-- <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> -->
-    <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-Website-blue">
+    <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" />
+    <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-Portfolio-blue">
     <br/>
-    <a href="https://stackoverflow.com/users/11379030/tholeb"><img src="https://stackoverflow.com/users/flair/11379030.png?theme=dark" width="208" height="58" alt="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+    <img src="https://stackoverflow.com/users/flair/11379030.png?theme=dark" width="208" height="58" alt="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tholeb at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
 
