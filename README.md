@@ -12,7 +12,7 @@
   <a href="tholeb.fr">
     <!-- <img src="https://komarev.com/ghpvc/?username=tholeb" alt="tholeb" /> -->
     <img alt="my website" src="https://img.shields.io/badge/tholeb.fr-Website-blue">
-    <img alt="my website" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11379030">
+    <img alt="stack overflow" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/11379030">
   </a>
 </p>
 
