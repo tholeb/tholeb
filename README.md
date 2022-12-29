@@ -40,11 +40,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/tholeb/tholeb.github.io/pull/6) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-2. 🗣 Commented on [#23](https://github.com/gitladen7/protonmail-webextension/issues/23) in [gitladen7/protonmail-webextension](https://github.com/gitladen7/protonmail-webextension)
-3. 💪 Opened PR [#810](https://github.com/citizenfx/natives/pull/810) in [citizenfx/natives](https://github.com/citizenfx/natives)
-4. 💪 Opened PR [#809](https://github.com/citizenfx/natives/pull/809) in [citizenfx/natives](https://github.com/citizenfx/natives)
-5. ❗️ Closed issue [#104](https://github.com/Bob74/bob74_ipl/issues/104) in [Bob74/bob74_ipl](https://github.com/Bob74/bob74_ipl)
+1. 🎉 Merged PR [#8](https://github.com/tholeb/tholeb.github.io/pull/8) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+2. 🎉 Merged PR [#9](https://github.com/tholeb/tholeb.github.io/pull/9) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+3. 🎉 Merged PR [#10](https://github.com/tholeb/tholeb.github.io/pull/10) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+4. 🎉 Merged PR [#11](https://github.com/tholeb/tholeb.github.io/pull/11) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+5. 🎉 Merged PR [#12](https://github.com/tholeb/tholeb.github.io/pull/12) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
