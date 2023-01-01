@@ -40,11 +40,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/tholeb/tholeb.github.io/pull/8) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-2. 🎉 Merged PR [#9](https://github.com/tholeb/tholeb.github.io/pull/9) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-3. 🎉 Merged PR [#10](https://github.com/tholeb/tholeb.github.io/pull/10) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-4. 🎉 Merged PR [#11](https://github.com/tholeb/tholeb.github.io/pull/11) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
-5. 🎉 Merged PR [#12](https://github.com/tholeb/tholeb.github.io/pull/12) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+1. ❗️ Closed issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
+2. 🗣 Commented on [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
+3. ❗️ Opened issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
+4. 🎉 Merged PR [#8](https://github.com/tholeb/tholeb.github.io/pull/8) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+5. 🎉 Merged PR [#9](https://github.com/tholeb/tholeb.github.io/pull/9) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
