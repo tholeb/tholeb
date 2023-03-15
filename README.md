@@ -40,11 +40,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6729](https://github.com/grafana/loki/issues/6729) in [grafana/loki](https://github.com/grafana/loki)
-2. ❗️ Closed issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
-3. 🗣 Commented on [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
-4. ❗️ Opened issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
-5. 🎉 Merged PR [#8](https://github.com/tholeb/tholeb.github.io/pull/8) in [tholeb/tholeb.github.io](https://github.com/tholeb/tholeb.github.io)
+1. ❗️ Opened issue [#10662](https://github.com/microsoft/vscode-cpptools/issues/10662) in [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+2. 🗣 Commented on [#6729](https://github.com/grafana/loki/issues/6729) in [grafana/loki](https://github.com/grafana/loki)
+3. ❗️ Closed issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
+4. 🗣 Commented on [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
+5. ❗️ Opened issue [#642](https://github.com/maruohon/litematica/issues/642) in [maruohon/litematica](https://github.com/maruohon/litematica)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
