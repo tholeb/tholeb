@@ -40,11 +40,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
-2. ❗️ Closed issue [#165](https://github.com/ansible/ansible-lint-action/issues/165) in [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action)
-3. 🗣 Commented on [#165](https://github.com/ansible/ansible-lint-action/issues/165) in [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action)
+1. ❗️ Opened issue [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
+2. ❗️ Closed issue [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
+3. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
 4. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
-5. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
+5. ❗️ Closed issue [#165](https://github.com/ansible/ansible-lint-action/issues/165) in [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
