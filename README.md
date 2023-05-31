@@ -41,8 +41,8 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
-2. ❗️ Opened issue [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
-3. ❗️ Closed issue [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
+2. ❗ Opened issue [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
+3. 🔒 Closed issue [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
 4. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
 5. 🗣 Commented on [#18324](https://github.com/containers/podman/issues/18324) in [containers/podman](https://github.com/containers/podman)
 <!--END_SECTION:activity-->
