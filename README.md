@@ -40,11 +40,11 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
 <h2>💻 &nbsp;Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#403](https://github.com/ngoduykhanh/wireguard-ui/issues/403) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
-2. 🗣 Commented on [#81084](https://github.com/ansible/ansible/issues/81084) in [ansible/ansible](https://github.com/ansible/ansible)
-3. ❗ Opened issue [#81084](https://github.com/ansible/ansible/issues/81084) in [ansible/ansible](https://github.com/ansible/ansible)
-4. 🗣 Commented on [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
-5. ❗ Opened issue [#1720](https://github.com/pivpn/pivpn/issues/1720) in [pivpn/pivpn](https://github.com/pivpn/pivpn)
+1. 🔒 Closed issue [#403](https://github.com/ngoduykhanh/wireguard-ui/issues/403) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
+2. 🗣 Commented on [#403](https://github.com/ngoduykhanh/wireguard-ui/issues/403) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
+3. ❗ Opened issue [#403](https://github.com/ngoduykhanh/wireguard-ui/issues/403) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
+4. 🗣 Commented on [#81084](https://github.com/ansible/ansible/issues/81084) in [ansible/ansible](https://github.com/ansible/ansible)
+5. ❗ Opened issue [#81084](https://github.com/ansible/ansible/issues/81084) in [ansible/ansible](https://github.com/ansible/ansible)
 <!--END_SECTION:activity-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
