@@ -17,39 +17,44 @@
 ## 🧑 About me
 
 <p>
-I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>self-taught</b> and enthusiastic Full-Stack developer mainly using javascript for projects. I love working with others and solving problems; I also love learning by myself!
+I'm a french IT engineering school student France. I'm mainly interested in the DevSecOps field. <b>If you are looking for an intern, feel free to contact me on Linkedin !</b>
 </p>
 
-🌐 Find me on [Linkedin](https://www.linkedin.com/in/thomas-lebreton-1246681b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lebreton-thomas/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tholeb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/tholeb) 
 
-## 🛠️ Stuff I use
+## 🛠️ Techs
 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C)
+![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) 
 
-<h2>💻 &nbsp;Recent Activities</h2>
+<!-- <h2>💻 &nbsp;Recent Activities</h2> -->
 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/tholeb/lspd_timeclock/issues/8) in [tholeb/lspd_timeclock](https://github.com/tholeb/lspd_timeclock)
-2. ❗ Opened issue [#7](https://github.com/tholeb/lspd_timeclock/issues/7) in [tholeb/lspd_timeclock](https://github.com/tholeb/lspd_timeclock)
-3. ❗ Opened issue [#6](https://github.com/tholeb/lspd_timeclock/issues/6) in [tholeb/lspd_timeclock](https://github.com/tholeb/lspd_timeclock)
-4. ❗ Opened issue [#5](https://github.com/tholeb/lspd_timeclock/issues/5) in [tholeb/lspd_timeclock](https://github.com/tholeb/lspd_timeclock)
-5. ❗ Opened issue [#4](https://github.com/tholeb/lspd_timeclock/issues/4) in [tholeb/lspd_timeclock](https://github.com/tholeb/lspd_timeclock)
-<!--END_SECTION:activity-->
+<!--START_SECTION:activitySTOP-->
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 
 ![3D Contributions](./profile-3d-contrib/profile-customize.svg)
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <details>
  <summary><b>🌐 Refs</b></summary>
@@ -61,25 +66,6 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
     <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a></li>
   <ol>
 </details>
-
-<!-- <p align="center" style="display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 10px; width: auto;">
-  <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img alt="js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img alt="reactjs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img alt="vuejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-  <img alt="mysql" width="40px" src="http://pngimg.com/uploads/mysql/mysql_PNG9.png" />
-  <img alt="sqlite" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
-  <img alt="java" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-  <img alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img alt="linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
-  <img alt="git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img alt="ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
-  <img alt="sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="php" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-</p> -->
 
 <!-- <details open>
   <summary><b>🔎 Github Profile Details</b></summary>
@@ -100,13 +86,4 @@ I'm a french student at the <b>University of Nantes</b>. I am a creative, <b>sel
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tholeb&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DDDDDD00&currStreakLabel=4B8EDA&ring=4B8EDA&fire=4B8EDA" alt="tholeb" />
   </p>
-</details> -->
-
-<!-- <details open>
-    <summary><b>📊 Github Contribution Graph</b></summary>
-    <p align="center">
-        <a href="#!">
-            <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tholeb&bg_color=0D1117&color=4B8EDA&line=4B8EDA&point=FFFFFF&hide_border=true" />
-        </a>
-    </p>
 </details> -->
