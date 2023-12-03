@@ -54,7 +54,6 @@ I'm a french IT engineering school student France. I'm mainly interested in the 
 
 ![3D Contributions](./profile-3d-contrib/profile-customize.svg)
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <details>
  <summary><b>🌐 Refs</b></summary>
@@ -65,6 +64,9 @@ I'm a french IT engineering school student France. I'm mainly interested in the 
     <li><a href="https://github.com/leviarista/github-profile-header-generator">leviarista/github-profile-header-generator</a></li>
     <li><a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a></li>
   <ol>
+  <p align="center">
+    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  </p>
 </details>
 
 <!-- <details open>
