@@ -50,10 +50,11 @@ I'm a french IT engineering school student France. I'm mainly interested in the 
 
 <!--START_SECTION:activitySTOP-->
 
+<!--
 <h2>ℹ️ &nbsp;Github Info</h2>
 
 ![3D Contributions](./profile-3d-contrib/profile-customize.svg)
-
+-->
 
 <details>
  <summary><b>🌐 Refs</b></summary>
